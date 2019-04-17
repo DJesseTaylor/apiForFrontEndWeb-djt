@@ -8,4 +8,4 @@ import { DevelopersController } from './developers/developers.controller';
   controllers: [AppController, DevelopersController],
   providers: [AppService],
 })
-export class AppModule {}
+export class AppModule { }
